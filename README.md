@@ -1,8 +1,8 @@
 <h1 align="center"> Olá! Bem-vindo ao Repositório de Algoritmos em Bioinformática </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UNIFESP-Universidade%20Federal%20de%20S%C3%A3o%20Paulo-blue" alt="UNIFESP">
-  <img src="https://img.shields.io/badge/Jo%C3%A3o%20Victor%20Assaoka%20Ribeiro-2024-blue" alt="João Victor Assaoka">
+  <img src="https://img.shields.io/badge/UNIFESP-Universidade%20Federal%20de%20S%C3%A3o%20Paulo-215a36" alt="UNIFESP">
+  <img src="https://img.shields.io/badge/Jo%C3%A3o%20Victor%20Assaoka%20Ribeiro-2024-215a36" alt="João Victor Assaoka">
 </p>
 
 # Materiais:
