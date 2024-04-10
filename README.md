@@ -6,8 +6,9 @@
 </p>
 
 # Materiais:
-📁 [Operações Básicas](./[%201]%20Operações%20Básicas/)
-<br> 📁 [Loops e Condicionais](./[%202]%20Loops%20e%20Condicionais/)
+📁 [Primeiros Passos em Python](./[%20%201%20]%20Primeiros%20Passos%20em%20Python/)
+<br> 📁 [Loops e Condicionais](./[%20%202%20]%20Loops%20e%20Condicionais/)
+<br> 📁 [Listas e Tuplas](./[%20%203%20]%20Listas%20e%20Tuplas/)
 <br> 📁 Em Breve...
 
 
@@ -22,4 +23,4 @@
 
 </p>
 
-##
+---
