@@ -1,18 +1,27 @@
-<h1 align="center"> Olá! Bem-vindo ao Repositório de Algoritmos em Bioinformática </h1>
-
-<p align="center">
+<h1 align="center"> 🧬 Algoritmos em Bioinformática 🧬 <br>
   <img src="https://img.shields.io/badge/UNIFESP-Universidade%20Federal%20de%20S%C3%A3o%20Paulo-215a36" alt="UNIFESP">
   <img src="https://img.shields.io/badge/Jo%C3%A3o%20Victor%20Assaoka%20Ribeiro-2024-215a36" alt="João Victor Assaoka">
-</p>
+</h1>
 
-# Materiais:
-📁 [Primeiros Passos em Python](./[%20%201%20]%20Primeiros%20Passos%20em%20Python/)
-<br> 📁 [Loops e Condicionais](./[%20%202%20]%20Loops%20e%20Condicionais/)
-<br> 📁 [Listas e Tuplas](./[%20%203%20]%20Listas%20e%20Tuplas/)
-<br> 📁 Em Breve...
+<p align="justify">
+&emsp;&emsp;  Seja bem-vindo ao Repositório de Algoritmos em Bioinformática! Aqui você encontrará materiais e exercícios do curso ministrado no 1º semestre de 2024 na UNIFESP (Universidade Federal de São Paulo).</p>
+
+# 📁 Materiais:
+| **Nº** |                 **Conteúdo Abordado**                 |                                                                   **Link para o Material**                                                                    |
+| :----: | :---------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   1    |              Primeiros Passos em Python               |              <a href="./[  1 ] Primeiros Passos em Python/"><img src="https://img.shields.io/badge/Ver_Material-215a36" alt="Ver_Material"></a>               |
+|   2    |                 Loops e Condicionais                  |                 <a href="./[  2 ] Loops e Condicionais/"><img src="https://img.shields.io/badge/Ver_Material-5f5f5f" alt="Ver_Material"></a>                  |
+|   3    |                    Listas e Tuplas                    |                    <a href="./[  3 ] Listas e Tuplas/"><img src="https://img.shields.io/badge/Ver_Material-215a36" alt="Ver_Material"></a>                    |
+|   4    |                        Strings                        |                        <a href="./[  4 ] Strings/"><img src="https://img.shields.io/badge/Ver_Material-5f5f5f" alt="Ver_Material"></a>                        |
+|   5    |                      Dicionários                      |                      <a href="./[  5 ] Dicionários/"><img src="https://img.shields.io/badge/Ver_Material-215a36" alt="Ver_Material"></a>                      |
+|   6    |                        Função                         |                        <a href="./[  6 ] Função/"><img src="https://img.shields.io/badge/Ver_Material-5f5f5f" alt="Ver_Material"></a>                         |
+|   7    | Seminário - Banco de Dados de Sequências de Proteínas | <a href="./[  7 ] Seminário - Banco de Dados de Sequências de Proteínas/"><img src="https://img.shields.io/badge/Ver_Material-215a36" alt="Ver_Material"></a> |
+|   8    |                        Numpy 1                        |                        <a href="./[  8 ] Numpy 1/"><img src="https://img.shields.io/badge/Ver_Material-5f5f5f" alt="Ver_Material"></a>                        |
+|   9    |                       Em Breve                        |                                                                              ...                                                                              |
 
 
-# Sobre o Autor:
+
+# 👨‍💻 Sobre o Autor:
 <img src="https://avatars.githubusercontent.com/u/130188340?s=200&u=83c9d36fc760730d693236248c76d9464e4b92fc&v=4" alt="Minha Foto" align="left" width="15%" height="15%" style="margin-right: 10px">
 
 <p align="justify">
